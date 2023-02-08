@@ -312,17 +312,13 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1940318848761768469, guid: e415fea252ed79543972b99ded036138, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 26a6fc74d2529494fba0a93b9c145353, type: 2}
     - target: {fileID: 1940318848761768470, guid: e415fea252ed79543972b99ded036138, type: 3}
       propertyPath: m_Name
       value: StingrayShip
       objectReference: {fileID: 0}
     - target: {fileID: 1940318848761768682, guid: e415fea252ed79543972b99ded036138, type: 3}
-      propertyPath: tr
-      value: 
+      propertyPath: bulletSpeed
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1940318848761768683, guid: e415fea252ed79543972b99ded036138, type: 3}
       propertyPath: m_RootOrder

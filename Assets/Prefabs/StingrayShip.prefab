@@ -162,7 +162,7 @@ Animator:
   m_GameObject: {fileID: 1940318848761768470}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 16efb83035664dd46ab3dd6e7ebcfdec, type: 2}
+  m_Controller: {fileID: 9100000, guid: 26a6fc74d2529494fba0a93b9c145353, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -185,6 +185,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerSpeed: 6
+  rb2d: {fileID: 0}
+  bulletPH:
+  - {fileID: 30879379}
+  - {fileID: 798905334}
+  bullet: {fileID: 6992636986529100547, guid: 9a9f31a21acd89a4cab1e901435f5bd5, type: 3}
 --- !u!50 &1940318848761768681
 Rigidbody2D:
   serializedVersion: 4
