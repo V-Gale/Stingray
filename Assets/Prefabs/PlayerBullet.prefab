@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6992636986529100546}
   - component: {fileID: 8607158465263070239}
   - component: {fileID: 4199987499168303599}
+  - component: {fileID: -7334674315021988816}
   m_Layer: 0
   m_Name: PlayerBullet
   m_TagString: Untagged
@@ -29,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 6992636986529100547}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.095646, y: -1.753887, z: 0}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
+  m_LocalScale: {x: 0.15, y: 0.15, z: 0.15}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -140,3 +141,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f3a8933142118e4ebeb3ce018c97ec2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!58 &-7334674315021988816
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6992636986529100547}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.35

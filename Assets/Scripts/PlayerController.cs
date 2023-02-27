@@ -27,7 +27,7 @@ public class PlayerController : MonoBehaviour
         direction = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical")).normalized;
 
         //SCREEEN BOUNDS
-        transform.position = new Vector2(Mathf.Clamp(transform.position.x, -7.5f, 7.5f),
+        transform.position = new Vector2(Mathf.Clamp(transform.position.x, -6f, 6f),
             Mathf.Clamp(transform.position.y, -4f, 4f));
         
         Skills();

@@ -1,0 +1,1333 @@
+fileFormatVersion: 2
+guid: d3d9c49c200b12e499c3faa1406643ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StingrayStatus-SS_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 781
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5c453ec8426744c8edc6404a43128e
+      internalID: 2080703688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 781
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b6634ef71f34c4f86b84f2eb81352b
+      internalID: -224119332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 781
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522f265b8c6080b4989a827228111494
+      internalID: 1868502638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 781
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d06523f572a46547b0c8a5ade4a2077
+      internalID: 171002526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 781
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ac4052a6e893c4da866a0f658c2b2f
+      internalID: 520057217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 781
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5932c4bbad4f745846ec9b4e16d522
+      internalID: 2022591917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 781
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a99f927d852a848bd556c71c7ace75
+      internalID: 599942943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 781
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fb98e939d35b141a95449f96b6f2b5
+      internalID: -1278360607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 653
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87393196b831eb4ea5615d82138561a
+      internalID: 484999691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 653
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba87a4dcf5ab4bf4d86e31fae5481b22
+      internalID: 950912199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 653
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df02f9f7be30c1542bdfddb383aa82c2
+      internalID: 677505376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 653
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46759633aa12d5a429e86f52f88ba92f
+      internalID: -1185936597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 653
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f219186195649fc4a941e9807ef5ce73
+      internalID: -44457681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 653
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db3279de558815478073c79b6634106
+      internalID: 1161222206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 653
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca9f576cf7c00f4a8aff9a885d565aa
+      internalID: -2012829522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_15
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 653
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a83e4a0b733c884c82f8942740e9edd
+      internalID: 1292935553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 525
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43be6a7c230afc0438941205bf9c4270
+      internalID: -699334910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 525
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb5d23bb6982dc4180202a47c5849c5
+      internalID: 1261812328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 525
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b82df6e0b1c36468b2ad926c9f1be5
+      internalID: 51367187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 525
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377f83427b0a7084899ec852d24d7c49
+      internalID: 1391938997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 525
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf128346a0249e46a095b7bab88d5bc
+      internalID: 1298638045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 525
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f950e1cacd4c10d479df4dfca9d69a09
+      internalID: -2024261986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 525
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26514a9b956e9c34e95187fa8c6a636f
+      internalID: 1894966221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_23
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 525
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afa3d55ee6fd9d4f82ae9a506a73588
+      internalID: 2004736828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 397
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf5b8255aa98cd43ba9db213daf8ff6
+      internalID: 1862665419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 397
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997b7c51c3026c143b675e2246a28629
+      internalID: 1124845946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 397
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8d62ccd2c891d44a65f30613b81ec7
+      internalID: 2094230575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 397
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b32170c1121fde46ab8e5d0b730b37c
+      internalID: -854978594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 397
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48388e335d695a247b03d9dc981c5122
+      internalID: -250614629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_29
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 397
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96527043ce3b974f87708f46f726cc8
+      internalID: -866494144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_30
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 397
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b85165482e94db4d95c998e3e38f5f6
+      internalID: 146434346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_31
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 397
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6749c739337b2ba4d9468e50a3514e55
+      internalID: 1334139102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 269
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e854df7fce09754d97b17e71961387a
+      internalID: -1259700718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 269
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bf895999a5160468a5392a8cf17af9
+      internalID: -1962888913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 269
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d31d897440c1c4690dfd99d89922f3
+      internalID: 2078596694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 269
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f4bd27d44a2d74eb8db6d6eef0adbc
+      internalID: -956423757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_36
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 269
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d4c772453454941a0af78f1852cd31
+      internalID: -981694859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_37
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 269
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf1b1e85e327db4082c34e2fd699aa6
+      internalID: 895379916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_38
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 269
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afefc981d9e90040a00449fe4567a25
+      internalID: -1393612467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_39
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 269
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8e6e100d7d0dc42aa49efc7a158185
+      internalID: 1313491712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ecad94152a57242ae94e7370c717f3
+      internalID: -306892354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 141
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a557086ce0235f4a925c0c60e44b067
+      internalID: 1784047318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 141
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba98fc44f55853740844fd17b20c4b5f
+      internalID: 1922372187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 141
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26496258d70b71544981a7839d343276
+      internalID: -1441383718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_44
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 141
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df646af4cf44fb40b1a4799c764b637
+      internalID: -1700947803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_45
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 141
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2d0ef61a59e6f4a80f981d3a589d82
+      internalID: 149477546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_46
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 141
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b638c1687bb89f34995f7c40753beadf
+      internalID: 727910842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_47
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 141
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0286c9bee8ba44892441f31db451a7
+      internalID: 300804539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed3d18f86dd7d54f8a8eca085850d4b
+      internalID: -181896150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 13
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59686d708230c264485179e6bcf93d8d
+      internalID: -457171930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_50
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 13
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad07e4ab4a43c4ea286d4e527f6bc7
+      internalID: -1968801084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 13
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a595b629d30d7fb4cb82a9fef408ed84
+      internalID: 1283429532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_52
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 13
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c113d62c06b04e90ac74f5e919503
+      internalID: 496866138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_53
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 13
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6c9239a42e52f44a8d6280a0df0652
+      internalID: -1557153844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StingrayStatus-SS_54
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 13
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dbfc69309aa8b459d7785182064296
+      internalID: -869465639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StingrayStatus-SS_53: -1557153844
+      StingrayStatus-SS_16: -699334910
+      StingrayStatus-SS_29: -866494144
+      StingrayStatus-SS_1: -224119332
+      StingrayStatus-SS_51: 1283429532
+      StingrayStatus-SS_5: 2022591917
+      StingrayStatus-SS_48: -181896150
+      StingrayStatus-SS_27: -854978594
+      StingrayStatus-SS_37: 895379916
+      StingrayStatus-SS_30: 146434346
+      StingrayStatus-SS_41: 1784047318
+      StingrayStatus-SS_18: 51367187
+      StingrayStatus-SS_22: 1894966221
+      StingrayStatus-SS_39: 1313491712
+      StingrayStatus-SS_34: 2078596694
+      StingrayStatus-SS_26: 2094230575
+      StingrayStatus-SS_43: -1441383718
+      StingrayStatus-SS_47: 300804539
+      StingrayStatus-SS_6: 599942943
+      StingrayStatus-SS_15: 1292935553
+      StingrayStatus-SS_24: 1862665419
+      StingrayStatus-SS_28: -250614629
+      StingrayStatus-SS_3: 171002526
+      StingrayStatus-SS_52: 496866138
+      StingrayStatus-SS_25: 1124845946
+      StingrayStatus-SS_33: -1962888913
+      StingrayStatus-SS_40: -306892354
+      StingrayStatus-SS_21: -2024261986
+      StingrayStatus-SS_44: -1700947803
+      StingrayStatus-SS_13: 1161222206
+      StingrayStatus-SS_2: 1868502638
+      StingrayStatus-SS_12: -44457681
+      StingrayStatus-SS_36: -981694859
+      StingrayStatus-SS_45: 149477546
+      StingrayStatus-SS_7: -1278360607
+      StingrayStatus-SS_32: -1259700718
+      StingrayStatus-SS_54: -869465639
+      StingrayStatus-SS_46: 727910842
+      StingrayStatus-SS_14: -2012829522
+      StingrayStatus-SS_49: -457171930
+      StingrayStatus-SS_35: -956423757
+      StingrayStatus-SS_11: -1185936597
+      StingrayStatus-SS_17: 1261812328
+      StingrayStatus-SS_31: 1334139102
+      StingrayStatus-SS_23: 2004736828
+      StingrayStatus-SS_42: 1922372187
+      StingrayStatus-SS_50: -1968801084
+      StingrayStatus-SS_0: 2080703688
+      StingrayStatus-SS_19: 1391938997
+      StingrayStatus-SS_38: -1393612467
+      StingrayStatus-SS_8: 484999691
+      StingrayStatus-SS_10: 677505376
+      StingrayStatus-SS_9: 950912199
+      StingrayStatus-SS_20: 1298638045
+      StingrayStatus-SS_4: 520057217
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
