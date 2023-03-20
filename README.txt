@@ -2,6 +2,13 @@
 Stingray
 -------------------------------------------------------------------------------------------
 <Update>
+
+[20/03/23]
+>>> Assets Update:
+- Made the Ship Status animation.
+- Applied the Ship Status into the Canvas.
+
 [9/03/23]
 >>> Assets Update:
 - Made the Coin asset with PixelStudio.
+-------------------------------------------------------------------------------------------
